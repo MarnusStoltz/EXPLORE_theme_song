@@ -1,5 +1,5 @@
-# Explore day Composer
-
+# Explore day Composer 
+based on https://github.com/Skuldur/Classical-Piano-Composer
 This project allows you to train a neural network to generate midi music files that make use of a single instrument
 
 ## Requirements
